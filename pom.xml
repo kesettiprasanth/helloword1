@@ -38,7 +38,7 @@
 				<environment>DEV</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
-				<applicationName>Helloword</applicationName>
+				<applicationName>Helloword1</applicationName>
 				<muleVersion>4.2.2</muleVersion>
 				<businessGroup>preproductionBG</businessGroup>
 				</cloudHubDeployment>
